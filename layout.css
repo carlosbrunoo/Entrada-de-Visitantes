@@ -1,0 +1,39 @@
+.borda{
+  border: 1px solid black;
+}
+.linha-btn{
+  margin-top: 30px;
+}
+
+.container-fluid{
+ 
+}
+
+.d-block{
+			
+}
+/Letras do formulário/
+.form-group{
+
+}
+
+.form-label{
+
+}
+.btn{
+	
+}
+
+
+.form-background{
+	background-image: url("Imagens/montanha.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+	padding-bottom: 30%;	
+	background-repeat: no-repeat;
+}
+
+.container-fluid{
+	position: center;
+}
